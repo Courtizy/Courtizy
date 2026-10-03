@@ -4,7 +4,7 @@
 
 Aircraft, people and dollars are always scarcer than demand. I build open models that show where they should go, and how likely the plan is to hold: ranges and odds instead of a single number.
 
-[Portfolio](https://courtizy.github.io) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/) · [Email](mailto:courtizy@gmail.com) · [Résumé](https://courtizy.github.io/resume/Jason-C-Courtoy-Resume.pdf)
+[Portfolio](https://courtizy.github.io) · [LinkedIn](https://www.linkedin.com/in/jasoncourtoy) · [Email](mailto:jason.courtoy@gmail.com) · [Résumé](https://courtizy.github.io/resume/Jason-C-Courtoy-Resume.pdf)
 
 ---
 
