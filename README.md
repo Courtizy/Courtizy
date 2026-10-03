@@ -1,6 +1,6 @@
 ### Jason C. Courtoy
 
-**Operations & Sustainment Leader · Decision Analytics · Financial Modeling · MBA, UNC Kenan-Flagler**
+**Operations & Sustainment Leader · Decision Analytics · Financial Modeling**
 
 Aircraft, people and dollars are always scarcer than demand. I build open models that show where they should go, and how likely the plan is to hold: ranges and odds instead of a single number.
 
