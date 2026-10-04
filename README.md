@@ -1,22 +1,16 @@
-### Jason C. Courtoy
+## Know the odds before you commit.
 
-**Operations & Sustainment Leader · Decision Analytics · Financial Modeling**
+**Jason C. Courtoy** · Open decision models for operations, capital allocation and deals.
 
-Aircraft, people and dollars are always scarcer than demand. I build open models that show where they should go, and how likely the plan is to hold: ranges and odds instead of a single number.
-
-[Portfolio](https://courtizy.github.io) · [LinkedIn](https://www.linkedin.com/in/jasoncourtoy) · [Email](mailto:jason.courtoy@gmail.com) · [Résumé](https://courtizy.github.io/resume/Jason-C-Courtoy-Resume.pdf)
-
----
-
-#### Decision Models: operations → capital allocation → deals
+[Portfolio](https://courtizy.github.io/) · [LinkedIn](https://www.linkedin.com/in/jasoncourtoy/)
 
 | | Model | The question it answers | Status |
 |:-:|---|---|---|
-| <img src="tps.svg" width="40" alt=""> | **[Turn Pattern Sustainability](https://courtizy.github.io/TPS-Monte-Carlo-Simulation/)**<br><sub>01 · Operations · [open the code](https://github.com/Courtizy/TPS-Monte-Carlo-Simulation)</sub> | Can the fleet meet the flying schedule? | Live |
-| <img src="roi.svg" width="40" alt=""> | **Project ROI**<br><sub>02 · Capital</sub> | Which projects earn funding under real limits? | In development |
-| <img src="valuation.svg" width="40" alt=""> | **Valuation Model**<br><sub>03 · Deals</sub> | What is the business worth, and how sure are we? | In development |
-| <img src="core.svg" width="40" alt=""> | **Shared Core**<br><sub>Foundation · Monte Carlo</sub> | How likely is each outcome? | In development |
+| <img src="assets/tps.svg" width="40" alt=""> | **[Turn Pattern Sustainability](https://courtizy.github.io/TPS-Monte-Carlo-Simulation/)**<br><sub>01 · Operations · [code](https://github.com/Courtizy/TPS-Monte-Carlo-Simulation)</sub> | Can the fleet meet the flying schedule? | Live |
+| <img src="assets/roi.svg" width="40" alt=""> | **Project ROI**<br><sub>02 · Capital</sub> | Which projects earn funding under real limits? | In development |
+| <img src="assets/valuation.svg" width="40" alt=""> | **[Valuation Model](https://courtizy.github.io/valuation/)**<br><sub>03 · Deals · [demo](https://courtizy.github.io/valuation/?demo=1) · [code](https://github.com/Courtizy/valuation)</sub> | What is the business worth, and how sure are we? | In development |
+| <img src="assets/core.svg" width="40" alt=""> | **Shared Core**<br><sub>Foundation · Monte Carlo</sub> | How likely is each outcome? | In development |
 
-Every model is built to the same standard: problem → method → result → limits, stated assumptions and sources, validation and sensitivity analysis, and tests on the core math.
+**Decisions. Probabilities. Limits.** Every model starts from one real question, shows the odds instead of a single number, and says what it can't tell you.
 
-<sub>Personal projects. Views are my own. Public or synthetic data only; not endorsed by DoD or the U.S. Air Force.</sub>
+<sub>Personal projects, built on personal time. Views are my own. Public or synthetic data only; not endorsed by DoD or the U.S. Air Force. The Valuation Model is analysis of method, not investment advice.</sub>
