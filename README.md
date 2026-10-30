@@ -12,7 +12,7 @@
 | <img src="roi.svg" width="40" alt=""> | **Project ROI**<br><sub>Capital · Optimization</sub> | Which projects earn funding under real limits? | In development |
 | <img src="core.svg" width="40" alt=""> | **Shared Core**<br><sub>Foundation · Monte Carlo</sub> | How likely is each outcome? A shared engine is planned; today each model runs its own. | Planned |
 
-**Latest research.** [Study 01](https://courtizy.github.io/research/forecast-accuracy/memo.html) scored the Valuation Model's revenue forecasts against what companies later reported in their SEC filings. Its uncertainty ranges were far too narrow, so the model was changed. [Study 01b](https://courtizy.github.io/research/notebooks/forecast-accuracy-rescore.html) tests whether the fixes worked; it is being re-run on strictly point-in-time data before its results are reported.
+**Latest research.** [Study 01](https://courtizy.github.io/research/) asks how far you should trust the first five years of a DCF. It scores revenue forecasts built only from what was public at the time against what companies later reported in their SEC filings, and tests whether ranges calibrated on past misses are honest where standard ranges are not. Final results are in review.
 
 Side project: **[Delta Readiness](https://courtizy.github.io/fitness/)**, a daily readiness and PT-score tracker. Am I ready for the PT test?
 
