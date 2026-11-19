@@ -1,6 +1,6 @@
 ## Know the odds before you commit.
 
-**Jason C. Courtoy** · Open decision models for deals, operations and capital, and the research that tests them.
+**Jason C. Courtoy** · Open decision models for deals, operations and capital.
 
 [Portfolio](https://courtizy.github.io/) · [LinkedIn](https://www.linkedin.com/in/jasoncourtoy/)
 
@@ -8,11 +8,8 @@
 |:-:|---|---|---|
 | <img src="valuation.svg" width="40" alt=""> | **[Valuation Model](https://courtizy.github.io/valuation/)**<br><sub>Deals · DCF · Comparables · [demo](https://courtizy.github.io/valuation/?demo=1) · [code](https://github.com/Courtizy/valuation)</sub> | What is the business worth, and how sure are we? | Live |
 | <img src="tps.svg" width="40" alt=""> | **[Turn Pattern Sustainability](https://courtizy.github.io/TPS-Monte-Carlo-Simulation/)**<br><sub>Operations · Simulation · [code](https://github.com/Courtizy/TPS-Monte-Carlo-Simulation)</sub> | Can the fleet meet the flying schedule? | Live |
-| <img src="roi.svg" width="40" alt=""> | **Project ROI**<br><sub>Capital · Optimization</sub> | Which projects earn funding under real limits? | In development |
-| <img src="research.svg" width="40" alt=""> | **[Research & Analysis](https://courtizy.github.io/research/)**<br><sub>Evidence · Backtesting · [code](https://github.com/Courtizy/research)</sub> | Do the models hold up against what actually happened? | Live |
+| <img src="roi.svg" width="40" alt=""> | **Project ROI**<br><sub>Capital · Optimization</sub> | Which projects earn funding under real limits? | Planned |
 | <img src="core.svg" width="40" alt=""> | **Shared Core**<br><sub>Foundation · Monte Carlo</sub> | How likely is each outcome? A shared engine is planned; today each model runs its own. | Planned |
-
-**Latest research.** [Study 01](https://courtizy.github.io/research/) asks how far you should trust the first five years of a DCF. It scores revenue forecasts built only from what was public at the time against what companies later reported in their SEC filings. Standard ranges held far fewer outcomes than they claimed; ranges calibrated on past forecast misses held about what they promised.
 
 Side project: **[Delta Readiness](https://courtizy.github.io/fitness/)**, a daily readiness and PT-score tracker. Am I ready for the PT test?
 
