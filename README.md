@@ -1,17 +1,17 @@
 ## Know the odds before you commit.
 
-**Jason C. Courtoy** · Open decision models for deals, operations and capital.
+**Jason C. Courtoy** · Open decision models for operations, capital allocation and deals.
 
 [Portfolio](https://courtizy.github.io/) · [LinkedIn](https://www.linkedin.com/in/jasoncourtoy/)
 
 | | Project | The question it answers | Status |
 |:-:|---|---|---|
-| <img src="valuation.svg" width="40" alt=""> | **[Valuation Model](https://courtizy.github.io/valuation/)**<br><sub>Deals · DCF · Comparables · [demo](https://courtizy.github.io/valuation/?demo=1) · [code](https://github.com/Courtizy/valuation)</sub> | What is the business worth, and how sure are we? | Live |
-| <img src="tps.svg" width="40" alt=""> | **[Turn Pattern Sustainability](https://courtizy.github.io/TPS-Monte-Carlo-Simulation/)**<br><sub>Operations · Simulation · [code](https://github.com/Courtizy/TPS-Monte-Carlo-Simulation)</sub> | Can the fleet meet the flying schedule? | Live |
+| <img src="valuation.svg" width="40" alt=""> | **[Valuation Model](https://courtizy.github.io/valuation/)**<br><sub>Deals · DCF · Comparables · [demo](https://courtizy.github.io/valuation/?demo=1) · [code](https://github.com/Courtizy/valuation)</sub> | What is a public company worth across plausible assumptions? | Live |
+| <img src="tps.svg" width="40" alt=""> | **[Turn Pattern Sustainability](https://courtizy.github.io/TPS-Monte-Carlo-Simulation/)**<br><sub>Operations · Simulation · [code](https://github.com/Courtizy/TPS-Monte-Carlo-Simulation)</sub> | How often can the fleet fly the weekly schedule? | Live |
 | <img src="roi.svg" width="40" alt=""> | **Project ROI**<br><sub>Capital · Optimization</sub> | Which projects earn funding under real limits? | Planned |
 | <img src="core.svg" width="40" alt=""> | **Shared Core**<br><sub>Foundation · Monte Carlo</sub> | How likely is each outcome? A shared engine is planned; today each model runs its own. | Planned |
 
-Side project: **[Delta Readiness](https://courtizy.github.io/fitness/)**, a daily readiness and PT-score tracker. Am I ready for the PT test?
+Side project: **[Delta Readiness](https://courtizy.github.io/fitness/)** asks "Am I ready for the PT test?" It is a daily readiness and PT-score tracker built on the same idea.
 
 **Decisions. Probabilities. Limits.** Every model starts from one real question, shows the odds instead of a single number, and says what it can't tell you.
 
